@@ -3,11 +3,119 @@ entries:
   demo:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2018-08-07T16:08:52.690784169-05:00
+    created: "2018-08-13T10:23:18.434935468-05:00"
     description: A Helm chart for Kubernetes
     digest: 962e5f78b31fcce2333da1ffdeaf5855824ffc084907e4b8eb6a3f9e4da5dca3
     name: demo
     urls:
-    - demo-0.1.0.tgz
+    - https://github.com/paulczar/helm-demo/releases/download/0.1.0/demo-0.1.0.tgz/demo-0.1.0.tgz
     version: 0.1.0
-generated: 2018-08-07T16:08:52.690514806-05:00
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2018-08-13T10:23:38.440896299-05:00"
+    description: A Helm chart for Kubernetes
+    digest: 71807524721b997d2bea44210535f1b32342fce5211f867d31137988040ffd4f
+    name: demo
+    urls:
+    - https://github.com/paulczar/helm-demo/releases/download/0.1.14/demo-0.1.14.tgz/demo-0.1.14.tgz
+    version: 0.1.14
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2018-08-13T10:23:40.621943985-05:00"
+    description: A Helm chart for Kubernetes
+    digest: 49d2d4a3e294471efe850e1f2c1d82cac4e0bd929a61b964955bb4fcc7d1fd32
+    name: demo
+    urls:
+    - https://github.com/paulczar/helm-demo/releases/download/0.1.13/demo-0.1.13.tgz/demo-0.1.13.tgz
+    version: 0.1.13
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2018-08-13T10:23:41.705862049-05:00"
+    description: A Helm chart for Kubernetes
+    digest: ac82b107d912a0e121522988d9cf417927e81b7c4101c003fb1427a9a4f0e9d3
+    name: demo
+    urls:
+    - https://github.com/paulczar/helm-demo/releases/download/0.1.12/demo-0.1.12.tgz/demo-0.1.12.tgz
+    version: 0.1.12
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2018-08-13T10:23:42.294293112-05:00"
+    description: A Helm chart for Kubernetes
+    digest: 37871cf7c41944fa91a72ebc61c9500691230672b8784fc5281a46dc3e49b7a8
+    name: demo
+    urls:
+    - https://github.com/paulczar/helm-demo/releases/download/0.1.11/demo-0.1.11.tgz/demo-0.1.11.tgz
+    version: 0.1.11
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2018-08-13T10:23:42.710734245-05:00"
+    description: A Helm chart for Kubernetes
+    digest: d80b1818f70f97dbf53210b4d40645a3bd5a1380a3866e195746e30f28846076
+    name: demo
+    urls:
+    - https://github.com/paulczar/helm-demo/releases/download/0.1.10/demo-0.1.10.tgz/demo-0.1.10.tgz
+    version: 0.1.10
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2018-08-13T10:23:43.01774895-05:00"
+    description: A Helm chart for Kubernetes
+    digest: 1a1ecf19088cae2377b0d1be073b6cd265b46d268b776d7e205a01ae0460f9af
+    name: demo
+    urls:
+    - https://github.com/paulczar/helm-demo/releases/download/0.1.9/demo-0.1.9.tgz/demo-0.1.9.tgz
+    version: 0.1.9
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2018-08-13T10:23:43.487148011-05:00"
+    description: A Helm chart for Kubernetes
+    digest: 4eb20b9f8920c4a0e8c6d2fa0246fe49565fbfeb6dc3ac7c3099e41624a0b2a2
+    name: demo
+    urls:
+    - https://github.com/paulczar/helm-demo/releases/download/0.1.8/demo-0.1.8.tgz/demo-0.1.8.tgz
+    version: 0.1.8
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2018-08-13T10:23:43.741523557-05:00"
+    description: A Helm chart for Kubernetes
+    digest: 5d0348df82e348d966f451ac741f207adba7a6c8f11d891c3f412a488b4868b7
+    name: demo
+    urls:
+    - https://github.com/paulczar/helm-demo/releases/download/0.1.7/demo-0.1.7.tgz/demo-0.1.7.tgz
+    version: 0.1.7
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2018-08-13T10:23:44.059964932-05:00"
+    description: A Helm chart for Kubernetes
+    digest: 3752e93e64f19862646d334e15c05d5cda71c5c24e90dbe0cf1adb109d26097e
+    name: demo
+    urls:
+    - https://github.com/paulczar/helm-demo/releases/download/0.1.6/demo-0.1.6.tgz/demo-0.1.6.tgz
+    version: 0.1.6
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2018-08-13T10:23:44.271210211-05:00"
+    description: A Helm chart for Kubernetes
+    digest: 3a6570f54390e0d916f44b7a7b588b21dc9ba57042c91f4bb05aed42f3b12826
+    name: demo
+    urls:
+    - https://github.com/paulczar/helm-demo/releases/download/0.1.5/demo-0.1.5.tgz/demo-0.1.5.tgz
+    version: 0.1.5
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2018-08-13T10:23:44.482210121-05:00"
+    description: A Helm chart for Kubernetes
+    digest: e0958efb90b3d3524b4db53d005d9f9a59cbbc454005c001766dc42a24b2c37e
+    name: demo
+    urls:
+    - https://github.com/paulczar/helm-demo/releases/download/0.1.3/demo-0.1.3.tgz/demo-0.1.3.tgz
+    version: 0.1.3
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2018-08-13T10:23:44.717270062-05:00"
+    description: A Helm chart for Kubernetes
+    digest: 6822b0c28b7e6b840db19229584527e66470ee7f986cb673a2f709a89555c3e4
+    name: demo
+    urls:
+    - https://github.com/paulczar/helm-demo/releases/download/0.1.2/demo-0.1.2.tgz/demo-0.1.2.tgz
+    version: 0.1.2
+generated: "2018-08-13T10:23:17.266969789-05:00"
